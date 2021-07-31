@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkctaceygreen_github_io=self.webpackChunkctaceygreen_github_io||[]).push([[991],{5618:function(e){e.exports=JSON.parse('{"permalink":"/","page":1,"postsPerPage":1,"totalPages":3,"totalCount":3,"previousPage":null,"nextPage":"/page/2","blogDescription":"The non-intimidating tech blog of Chris Tacey-Green","blogTitle":"Non-Intimidating"}')}}]);
