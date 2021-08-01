@@ -4,14 +4,6 @@
     {
       "title": "Welcome",
       "permalink": "/blog/welcome"
-    },
-    {
-      "title": "Hello",
-      "permalink": "/blog/hello-world"
-    },
-    {
-      "title": "Hola",
-      "permalink": "/blog/hola"
     }
   ]
 }

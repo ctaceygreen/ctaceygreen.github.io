@@ -4,32 +4,33 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'What is this?',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        A blog of technical chitter chatter. Mostly taking on (interesting) 
+        challenges within software engineering and developing cloud solutions. It's named 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Who am I?',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Chris Tacey-Green. A software architect and engineer from the UK. When I'm not being lame and techy, 
+        I'm actually a sporty guy with two cute dogs and a cuter wife.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Why am I doing this?',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        I told myself to start a blog when I was 16. It's taken me over a decade to do it, 
+        but I've recently made too many promises to people to let them down. The aim is purely 
+        to try to educate on any and all topics that I can help with, hopefully with enough examples to aid with ctrl-c ctrl-v.
       </>
     ),
   },

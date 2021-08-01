@@ -1,6 +1,6 @@
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Definitely Not Intimidating",
+  "tagline": "A blog by Chris Tacey-Green",
   "url": "https://ctaceygreen.github.io",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
@@ -11,26 +11,19 @@ export default {
   "trailingSlash": false,
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "Definitely Not Intimidating",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "https://avatars.githubusercontent.com/u/11404995?v=4"
       },
       "items": [
-        {
-          "type": "doc",
-          "docId": "intro",
-          "position": "left",
-          "label": "Tutorial",
-          "activeSidebarClassName": "navbar__link--active"
-        },
         {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/ctaceygreen",
           "label": "GitHub",
           "position": "right"
         }
@@ -75,12 +68,12 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/ctaceygreen"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2021 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2021 Chris Tacey-Green. Built with Docusaurus."
     },
     "prism": {
       "theme": {
@@ -299,11 +292,15 @@ export default {
       {
         "docs": {
           "sidebarPath": "C:\\dev\\ctaceygreen.github.io\\sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
+          "editUrl": "https://github.com/ctaceygreen/ctaceygreen.github.io"
         },
         "blog": {
+          "blogTitle": "Definitely Not Intimidating",
+          "blogDescription": "The tech blog of Chris Tacey-Green, removing the intimidation from tech",
+          "blogSidebarCount": 5,
+          "postsPerPage": 1,
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
+          "editUrl": "https://github.com/ctaceygreen/ctaceygreen.github.io/"
         },
         "theme": {
           "customCss": "C:\\dev\\ctaceygreen.github.io\\src\\css\\custom.css"

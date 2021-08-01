@@ -3,8 +3,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Definitely Not Intimidating',
+  tagline: 'A blog by Chris Tacey-Green',
   url: 'https://ctaceygreen.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -15,21 +15,15 @@ module.exports = {
   trailingSlash: false,
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Definitely Not Intimidating',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'https://avatars.githubusercontent.com/u/11404995?v=4',
       },
       items: [
-        {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Tutorial',
-        },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/ctaceygreen',
           label: 'GitHub',
           position: 'right',
         },
@@ -73,12 +67,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/ctaceygreen',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Chris Tacey-Green. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
@@ -93,13 +87,21 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/ctaceygreen/ctaceygreen.github.io',
         },
         blog: {
+          blogTitle: 'Definitely Not Intimidating',
+          blogDescription: 'The tech blog of Chris Tacey-Green, removing the intimidation from tech',
+          /**
+           * Number of blog post elements to show in the blog sidebar
+           * 'ALL' to show all blog posts
+           * 0 to disable
+           */
+          blogSidebarCount: 5,
+          postsPerPage: 1,
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            "https://github.com/ctaceygreen/ctaceygreen.github.io/",
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
