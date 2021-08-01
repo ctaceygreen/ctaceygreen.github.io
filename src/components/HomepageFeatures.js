@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
         A blog of technical chitter chatter. Mostly taking on (interesting) 
-        challenges within software engineering and developing cloud solutions. It's named 
+        challenges within software engineering and developing cloud solutions.
       </>
     ),
   },
