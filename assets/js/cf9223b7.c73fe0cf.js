@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctaceygreen_github_io=self.webpackChunkctaceygreen_github_io||[]).push([[347],{5551:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"consumption","name":"consumption","count":1,"permalink":"/blog/tags/consumption"}')}}]);
