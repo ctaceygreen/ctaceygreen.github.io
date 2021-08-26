@@ -13,5 +13,9 @@
     }
   ],
   "readingTime": 0.98,
-  "truncated": false
+  "truncated": false,
+  "prevItem": {
+    "title": "How do I check the health of my Azure Consumption Functions when swapping Deployment Slots?",
+    "permalink": "/blog/azure-consumption-functions-healthcheck-with-deployment-slots"
+  }
 }
