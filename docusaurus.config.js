@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Definitely Not Intimidating',
+  title: 'Less Intimidating',
   tagline: 'A blog by Chris Tacey-Green',
   url: 'https://ctaceygreen.github.io',
   baseUrl: '/',
@@ -15,7 +15,7 @@ module.exports = {
   trailingSlash: false,
   themeConfig: {
     navbar: {
-      title: 'Definitely Not Intimidating',
+      title: 'Less Intimidating',
       logo: {
         alt: 'My Site Logo',
         src: 'https://avatars.githubusercontent.com/u/11404995?v=4',
@@ -45,16 +45,12 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/in/chris-tacey-green-02a66b100/',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/ctaceygreen',
             },
           ],
         },
@@ -90,7 +86,7 @@ module.exports = {
             'https://github.com/ctaceygreen/ctaceygreen.github.io',
         },
         blog: {
-          blogTitle: 'Definitely Not Intimidating',
+          blogTitle: 'Less Intimidating',
           blogDescription: 'The tech blog of Chris Tacey-Green, removing the intimidation from tech',
           /**
            * Number of blog post elements to show in the blog sidebar

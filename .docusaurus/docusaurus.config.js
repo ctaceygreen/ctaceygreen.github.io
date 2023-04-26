@@ -1,5 +1,5 @@
 export default {
-  "title": "Definitely Not Intimidating",
+  "title": "Less Intimidating",
   "tagline": "A blog by Chris Tacey-Green",
   "url": "https://ctaceygreen.github.io",
   "baseUrl": "/",
@@ -11,7 +11,7 @@ export default {
   "trailingSlash": false,
   "themeConfig": {
     "navbar": {
-      "title": "Definitely Not Intimidating",
+      "title": "Less Intimidating",
       "logo": {
         "alt": "My Site Logo",
         "src": "https://avatars.githubusercontent.com/u/11404995?v=4"
@@ -334,7 +334,7 @@ export default {
           "editUrl": "https://github.com/ctaceygreen/ctaceygreen.github.io"
         },
         "blog": {
-          "blogTitle": "Definitely Not Intimidating",
+          "blogTitle": "Less Intimidating",
           "blogDescription": "The tech blog of Chris Tacey-Green, removing the intimidation from tech",
           "blogSidebarCount": 5,
           "postsPerPage": 1,
