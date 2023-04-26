@@ -73,7 +73,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2021 Chris Tacey-Green. Built with Docusaurus."
+      "copyright": "Copyright © 2023 Chris Tacey-Green. Built with Docusaurus."
     },
     "prism": {
       "theme": {
@@ -330,7 +330,7 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "C:\\dev\\ctaceygreen.github.io\\sidebars.js",
+          "sidebarPath": "/Users/ctgreen/dev/ctaceygreen.github.io/sidebars.js",
           "editUrl": "https://github.com/ctaceygreen/ctaceygreen.github.io"
         },
         "blog": {
@@ -342,7 +342,7 @@ export default {
           "editUrl": "https://github.com/ctaceygreen/ctaceygreen.github.io/"
         },
         "theme": {
-          "customCss": "C:\\dev\\ctaceygreen.github.io\\src\\css\\custom.css"
+          "customCss": "/Users/ctgreen/dev/ctaceygreen.github.io/src/css/custom.css"
         }
       }
     ]

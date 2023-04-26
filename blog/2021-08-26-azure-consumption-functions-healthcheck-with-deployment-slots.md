@@ -2,7 +2,7 @@
 slug: azure-consumption-functions-healthcheck-with-deployment-slots
 title: How do I check the health of my Azure Consumption Functions when swapping Deployment Slots?
 author: Chris Tacey-Green
-author_title: Software Architect
+author_title: Engineer, Architect, Human
 author_url: https://github.com/ctaceygreen
 author_image_url: https://avatars.githubusercontent.com/u/11404995?v=4
 tags: [deployment-slots, healthcheck, consumption, function, azure]
