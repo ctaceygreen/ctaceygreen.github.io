@@ -1,4 +1,11 @@
 {
+  "returning": {
+    "allTagsPath": "/blog/tags",
+    "slug": "returning",
+    "name": "returning",
+    "count": 1,
+    "permalink": "/blog/tags/returning"
+  },
   "deployment-slots": {
     "allTagsPath": "/blog/tags",
     "slug": "deployment-slots",

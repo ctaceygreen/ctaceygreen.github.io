@@ -2,10 +2,10 @@
   "permalink": "/blog/page/2",
   "page": 2,
   "postsPerPage": 1,
-  "totalPages": 2,
-  "totalCount": 2,
+  "totalPages": 3,
+  "totalCount": 3,
   "previousPage": "/blog",
-  "nextPage": null,
+  "nextPage": "/blog/page/3",
   "blogDescription": "The tech blog of Chris Tacey-Green, removing the intimidation from tech",
   "blogTitle": "Definitely Not Intimidating"
 }

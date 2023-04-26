@@ -30,6 +30,10 @@
   ],
   "readingTime": 3.42,
   "truncated": false,
+  "prevItem": {
+    "title": "Returning",
+    "permalink": "/blog/returning"
+  },
   "nextItem": {
     "title": "Welcome",
     "permalink": "/blog/welcome"

@@ -1,0 +1,21 @@
+{
+  "permalink": "/blog/returning",
+  "editUrl": "https://github.com/ctaceygreen/ctaceygreen.github.io/blog/2023-04-26-returning.md",
+  "source": "@site/blog/2023-04-26-returning.md",
+  "title": "Returning",
+  "description": "So I disappeared from blogging for...a year and a half.",
+  "date": "2023-04-26T00:00:00.000Z",
+  "formattedDate": "April 26, 2023",
+  "tags": [
+    {
+      "label": "returning",
+      "permalink": "/blog/tags/returning"
+    }
+  ],
+  "readingTime": 0.73,
+  "truncated": false,
+  "nextItem": {
+    "title": "How do I check the health of my Azure Consumption Functions when swapping Deployment Slots?",
+    "permalink": "/blog/azure-consumption-functions-healthcheck-with-deployment-slots"
+  }
+}
