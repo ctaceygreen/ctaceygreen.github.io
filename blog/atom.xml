@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ctaceygreen.github.io/blog</id>
-    <title>Definitely Not Intimidating Blog</title>
+    <title>Less Intimidating Blog</title>
     <updated>2023-04-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ctaceygreen.github.io/blog"/>
-    <subtitle>Definitely Not Intimidating Blog</subtitle>
+    <subtitle>Less Intimidating Blog</subtitle>
     <icon>https://ctaceygreen.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Returning]]></title>
