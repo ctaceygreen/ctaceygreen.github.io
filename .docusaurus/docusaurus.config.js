@@ -11,7 +11,7 @@ export default {
   "trailingSlash": false,
   "themeConfig": {
     "navbar": {
-      "title": "Less Intimidating",
+      "title": "Less Intimidating - Chris Tacey-Green",
       "logo": {
         "alt": "My Site Logo",
         "src": "https://avatars.githubusercontent.com/u/11404995?v=4"
@@ -332,7 +332,7 @@ export default {
         "blog": {
           "blogTitle": "Less Intimidating",
           "blogDescription": "The tech blog of Chris Tacey-Green, removing the intimidation from tech",
-          "blogSidebarCount": 5,
+          "blogSidebarCount": 10,
           "postsPerPage": 1,
           "showReadingTime": true,
           "include": [

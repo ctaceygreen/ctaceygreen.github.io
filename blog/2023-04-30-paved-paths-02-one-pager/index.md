@@ -31,13 +31,13 @@ We both found ourselves needing to write a one-page summary of paved paths. This
 A paved path ensures that a well-trodden route is an easy, quick and safe way of reaching a clearly defined destination.
 
 ## Hiking
-Imagine you're hiking through a woodland. Your destination is 'Chuck's Cafe', 4 miles away. You have a couple of options in this situation:
-1. Woodland map in hand, follow the predefined path to the cafe.
-2. Knife in hand, head directly into the bush, confident you have the navigation and athletic abilities to reach the cafe.
+Imagine you're hiking through a woodland. Your destination is 'Chuck's Café', 4 miles away. You have a couple of options in this situation:
+1. Woodland map in hand, follow the predefined path to the café.
+2. Knife in hand, head directly into the bush, confident you have the navigation and athletic abilities to reach the café.
 
 ![image of a path through woodland with two possible routes](./forest_path.png)
 
-Clearly, #2 is a much more adventurous decision to make. It may result in you learning new skills, or honing your existing ones. It could drive you to solve problems in new, innovative ways. However, it will most likely cause you to reach the cafe much later than if you'd followed the predefined path, disheveled and missing your watch.
+Clearly, #2 is a much more adventurous decision to make. It may result in you learning new skills, or honing your existing ones. It could drive you to solve problems in new, innovative ways. However, it will most likely cause you to reach the café much later than if you'd followed the predefined path, dishevelled and missing your watch.
 
 Option #1 is our paved path. It is predictable, safe, and fast. It will need walkers to make very few decisions(maybe a fork or two), will be smooth to traverse, and protects them from the risks of the deeper woodland (see: Bears). It is also unlikely to yield any opportunities for innovation.
 
