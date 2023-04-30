@@ -15,18 +15,18 @@
             <description><![CDATA[Part 2 of the series - Your one-pager to demonstrate the value of paved paths]]></description>
         </item>
         <item>
-            <title><![CDATA[How do I check the health of my Azure Consumption Functions when swapping Deployment Slots?]]></title>
-            <link>https://ctaceygreen.github.io/blog/azure-consumption-functions-healthcheck-with-deployment-slots</link>
-            <guid>azure-consumption-functions-healthcheck-with-deployment-slots</guid>
-            <pubDate>Sun, 30 Apr 2023 10:23:13 GMT</pubDate>
-            <description><![CDATA[Setting the scene]]></description>
-        </item>
-        <item>
             <title><![CDATA[Returning]]></title>
             <link>https://ctaceygreen.github.io/blog/returning</link>
             <guid>returning</guid>
             <pubDate>Sun, 30 Apr 2023 10:23:13 GMT</pubDate>
             <description><![CDATA[So I disappeared from blogging for...a year and a half.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How do I check the health of my Azure Consumption Functions when swapping Deployment Slots?]]></title>
+            <link>https://ctaceygreen.github.io/blog/azure-consumption-functions-healthcheck-with-deployment-slots</link>
+            <guid>azure-consumption-functions-healthcheck-with-deployment-slots</guid>
+            <pubDate>Sun, 30 Apr 2023 10:23:13 GMT</pubDate>
+            <description><![CDATA[Setting the scene]]></description>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
