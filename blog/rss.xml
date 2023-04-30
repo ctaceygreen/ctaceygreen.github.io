@@ -4,28 +4,35 @@
         <title>Less Intimidating Blog</title>
         <link>https://ctaceygreen.github.io/blog</link>
         <description>Less Intimidating Blog</description>
-        <lastBuildDate>Wed, 26 Apr 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 10:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Returning]]></title>
-            <link>https://ctaceygreen.github.io/blog/returning</link>
-            <guid>returning</guid>
-            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[So I disappeared from blogging for...a year and a half.]]></description>
+            <title><![CDATA[Paved Paths Series - Part 2 - A One Pager]]></title>
+            <link>https://ctaceygreen.github.io/blog/paved-paths-series-part-2-a-one-pager</link>
+            <guid>paved-paths-series-part-2-a-one-pager</guid>
+            <pubDate>Sun, 30 Apr 2023 10:23:13 GMT</pubDate>
+            <description><![CDATA[Part 2 of the series - Your one-pager to demonstrate the value of paved paths]]></description>
         </item>
         <item>
             <title><![CDATA[How do I check the health of my Azure Consumption Functions when swapping Deployment Slots?]]></title>
             <link>https://ctaceygreen.github.io/blog/azure-consumption-functions-healthcheck-with-deployment-slots</link>
             <guid>azure-consumption-functions-healthcheck-with-deployment-slots</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 30 Apr 2023 10:23:13 GMT</pubDate>
             <description><![CDATA[Setting the scene]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Returning]]></title>
+            <link>https://ctaceygreen.github.io/blog/returning</link>
+            <guid>returning</guid>
+            <pubDate>Sun, 30 Apr 2023 10:23:13 GMT</pubDate>
+            <description><![CDATA[So I disappeared from blogging for...a year and a half.]]></description>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://ctaceygreen.github.io/blog/welcome</link>
             <guid>welcome</guid>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 30 Apr 2023 10:23:13 GMT</pubDate>
             <description><![CDATA[I figured the first post couldn't be a heavy technical braindump. That would be rude.]]></description>
         </item>
     </channel>

@@ -2,30 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ctaceygreen.github.io/blog</id>
     <title>Less Intimidating Blog</title>
-    <updated>2023-04-26T00:00:00.000Z</updated>
+    <updated>2023-04-30T10:23:13.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ctaceygreen.github.io/blog"/>
     <subtitle>Less Intimidating Blog</subtitle>
     <icon>https://ctaceygreen.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Returning]]></title>
-        <id>returning</id>
-        <link href="https://ctaceygreen.github.io/blog/returning"/>
-        <updated>2023-04-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[So I disappeared from blogging for...a year and a half.]]></summary>
+        <title type="html"><![CDATA[Paved Paths Series - Part 2 - A One Pager]]></title>
+        <id>paved-paths-series-part-2-a-one-pager</id>
+        <link href="https://ctaceygreen.github.io/blog/paved-paths-series-part-2-a-one-pager"/>
+        <updated>2023-04-30T10:23:13.686Z</updated>
+        <summary type="html"><![CDATA[Part 2 of the series - Your one-pager to demonstrate the value of paved paths]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[How do I check the health of my Azure Consumption Functions when swapping Deployment Slots?]]></title>
         <id>azure-consumption-functions-healthcheck-with-deployment-slots</id>
         <link href="https://ctaceygreen.github.io/blog/azure-consumption-functions-healthcheck-with-deployment-slots"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
+        <updated>2023-04-30T10:23:13.683Z</updated>
         <summary type="html"><![CDATA[Setting the scene]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Returning]]></title>
+        <id>returning</id>
+        <link href="https://ctaceygreen.github.io/blog/returning"/>
+        <updated>2023-04-30T10:23:13.683Z</updated>
+        <summary type="html"><![CDATA[So I disappeared from blogging for...a year and a half.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
         <link href="https://ctaceygreen.github.io/blog/welcome"/>
-        <updated>2021-08-01T00:00:00.000Z</updated>
+        <updated>2023-04-30T10:23:13.682Z</updated>
         <summary type="html"><![CDATA[I figured the first post couldn't be a heavy technical braindump. That would be rude.]]></summary>
     </entry>
 </feed>
