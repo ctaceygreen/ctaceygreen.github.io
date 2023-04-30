@@ -15,7 +15,7 @@ module.exports = {
   trailingSlash: false,
   themeConfig: {
     navbar: {
-      title: 'Less Intimidating',
+      title: 'Less Intimidating - Chris Tacey-Green',
       logo: {
         alt: 'My Site Logo',
         src: 'https://avatars.githubusercontent.com/u/11404995?v=4',
@@ -93,7 +93,7 @@ module.exports = {
            * 'ALL' to show all blog posts
            * 0 to disable
            */
-          blogSidebarCount: 5,
+          blogSidebarCount: 10,
           postsPerPage: 1,
           showReadingTime: true,
           include: ["**/*.md", "**/*.mdx"],
