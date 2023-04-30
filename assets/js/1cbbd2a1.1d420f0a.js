@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctaceygreen_github_io=self.webpackChunkctaceygreen_github_io||[]).push([[3270],{2344:e=>{e.exports=JSON.parse('{"label":"healthcheck","permalink":"/blog/tags/healthcheck","allTagsPath":"/blog/tags","count":1}')}}]);

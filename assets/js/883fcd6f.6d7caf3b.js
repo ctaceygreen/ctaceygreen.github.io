@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctaceygreen_github_io=self.webpackChunkctaceygreen_github_io||[]).push([[7591],{8840:e=>{e.exports=JSON.parse('{"label":"one-pager","permalink":"/blog/tags/one-pager","allTagsPath":"/blog/tags","count":1}')}}]);
