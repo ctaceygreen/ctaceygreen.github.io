@@ -14,6 +14,11 @@ module.exports = {
   projectName: 'ctaceygreen.github.io', // Usually your repo name.
   trailingSlash: false,
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: true,
+    },
     navbar: {
       title: 'Less Intimidating - Chris Tacey-Green',
       logo: {
@@ -106,6 +111,7 @@ module.exports = {
         gtag:{
           trackingID: 'G-Z6DE13RPBW', 
           anonymizeIP: true
+        }
       },
     ],
   ],

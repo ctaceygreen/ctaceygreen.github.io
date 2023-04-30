@@ -11,11 +11,11 @@ authors:
     title: Software Engineer, Solutions Architect, Hiking Enthusiast
     url: https://www.rickroche.com/
     image_url: https://www.rickroche.com/images/avatar.png
-image: ./title-image.png
+image: https://christaceygreen.com/2023-04-30-paved-paths-02-one-pager/title-image.png
 tags: [paved-path, one-pager, summary]
 ---
 
-![title image reading "Paved Paths: A one pager" with a hiking photo](./title-image.png)
+![title image reading "Paved Paths: A one pager" with a hiking photo](/2023-04-30-paved-paths-02-one-pager/title-image.png)
 
 :::info Paved Path Series
 This is Part 2 in a series of posts discussing Paved Paths between [Rick](https://www.rickroche.com/) and I.
