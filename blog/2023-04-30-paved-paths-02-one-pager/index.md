@@ -27,6 +27,8 @@ This is Part 2 in a series of posts discussing Paved Paths between [Rick](https:
 We both found ourselves needing to write a one-page summary of paved paths. This would most likely act as a landing page for someone to 'get the gist' of what these are. Low detail. Imagine the CxO of your company wants to know what these are.
 :::
 
+<!--truncate-->
+
 # What is a paved path?
 A paved path ensures that a well-trodden route is an easy, quick and safe way of reaching a clearly defined destination.
 

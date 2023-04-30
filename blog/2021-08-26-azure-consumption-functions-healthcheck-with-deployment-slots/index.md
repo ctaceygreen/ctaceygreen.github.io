@@ -17,6 +17,8 @@ Our situation:
 * [Deployment slots](https://docs.microsoft.com/en-us/azure/app-service/deploy-staging-slots) configured within our IaC (a guide on these could be a separate post)
 * An ADO pipeline that deploys our IaC, code and then swaps our staging and production slot
 
+<!--truncate-->
+
 ## So what's the problem here?
 
 Our problem is that with the current setup, swapping slots on a consumption Function assumes healthiness based on loading the root URL of your Function App. This may be suitable for simple Functions, but as soon as your Function has downstream dependencies (such as a reliance on a DB, queue or other API), our requirements become more complicated. Ideally, our deployment process would look something like :

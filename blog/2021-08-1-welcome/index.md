@@ -10,6 +10,8 @@ tags: [welcome]
 
 I figured the first post couldn't be a heavy technical braindump. That would be rude. 
 
+<!--truncate-->
+
 Instead, here's a much more bite-size and welcoming 'Welcome' post, to break the blog in.
 Since I'm British, this is where I'd naturally talk about the weather to break the ice. So.. it's the middle of Summer in the UK, and therefore has been wet, windy and grey today.
 
