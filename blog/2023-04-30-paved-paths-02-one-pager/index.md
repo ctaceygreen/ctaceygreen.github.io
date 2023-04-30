@@ -1,8 +1,7 @@
 ---
 slug: paved-paths-series-part-2-a-one-pager
-title: Part 2 - Paved Paths - A One Pager
+title: Paved Paths Series - Part 2 - A One Pager
 description: Part 2 of the series - Your one-pager to demonstrate the value of paved paths 
-draft: true
 authors: 
   - name: Chris Tacey-Green
     title: Engineer, Architect, Human

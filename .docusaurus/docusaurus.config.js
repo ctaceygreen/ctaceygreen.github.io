@@ -46,16 +46,12 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "LinkedIn",
+              "href": "https://www.linkedin.com/in/chris-tacey-green-02a66b100/"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://twitter.com/ctaceygreen"
             }
           ]
         },
@@ -339,6 +335,10 @@ export default {
           "blogSidebarCount": 5,
           "postsPerPage": 1,
           "showReadingTime": true,
+          "include": [
+            "**/*.md",
+            "**/*.mdx"
+          ],
           "editUrl": "https://github.com/ctaceygreen/ctaceygreen.github.io/"
         },
         "theme": {
