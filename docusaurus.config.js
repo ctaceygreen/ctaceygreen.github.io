@@ -96,6 +96,7 @@ module.exports = {
           blogSidebarCount: 5,
           postsPerPage: 1,
           showReadingTime: true,
+          include: ["**/*.md", "**/*.mdx"],
           editUrl:
             "https://github.com/ctaceygreen/ctaceygreen.github.io/",
         },
