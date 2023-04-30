@@ -15,18 +15,18 @@
         <summary type="html"><![CDATA[Part 2 of the series - Your one-pager to demonstrate the value of paved paths]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Returning]]></title>
-        <id>returning</id>
-        <link href="https://ctaceygreen.github.io/blog/returning"/>
-        <updated>2023-04-30T10:23:13.683Z</updated>
-        <summary type="html"><![CDATA[So I disappeared from blogging for...a year and a half.]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How do I check the health of my Azure Consumption Functions when swapping Deployment Slots?]]></title>
         <id>azure-consumption-functions-healthcheck-with-deployment-slots</id>
         <link href="https://ctaceygreen.github.io/blog/azure-consumption-functions-healthcheck-with-deployment-slots"/>
         <updated>2023-04-30T10:23:13.683Z</updated>
         <summary type="html"><![CDATA[Setting the scene]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Returning]]></title>
+        <id>returning</id>
+        <link href="https://ctaceygreen.github.io/blog/returning"/>
+        <updated>2023-04-30T10:23:13.683Z</updated>
+        <summary type="html"><![CDATA[So I disappeared from blogging for...a year and a half.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
