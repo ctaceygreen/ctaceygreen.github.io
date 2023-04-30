@@ -4,28 +4,28 @@
         <title>Less Intimidating Blog</title>
         <link>https://ctaceygreen.github.io/blog</link>
         <description>Less Intimidating Blog</description>
-        <lastBuildDate>Sat, 29 Apr 2023 20:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Returning]]></title>
             <link>https://ctaceygreen.github.io/blog/returning</link>
             <guid>returning</guid>
-            <pubDate>Sat, 29 Apr 2023 20:43:41 GMT</pubDate>
+            <pubDate>Wed, 26 Apr 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[So I disappeared from blogging for...a year and a half.]]></description>
         </item>
         <item>
             <title><![CDATA[How do I check the health of my Azure Consumption Functions when swapping Deployment Slots?]]></title>
             <link>https://ctaceygreen.github.io/blog/azure-consumption-functions-healthcheck-with-deployment-slots</link>
             <guid>azure-consumption-functions-healthcheck-with-deployment-slots</guid>
-            <pubDate>Sat, 29 Apr 2023 20:43:16 GMT</pubDate>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Setting the scene]]></description>
         </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://ctaceygreen.github.io/blog/welcome</link>
             <guid>welcome</guid>
-            <pubDate>Sat, 29 Apr 2023 20:42:46 GMT</pubDate>
+            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[I figured the first post couldn't be a heavy technical braindump. That would be rude.]]></description>
         </item>
     </channel>
