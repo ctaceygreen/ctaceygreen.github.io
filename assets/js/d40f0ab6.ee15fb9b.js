@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctaceygreen_github_io=self.webpackChunkctaceygreen_github_io||[]).push([[2223],{256:e=>{e.exports=JSON.parse('{"label":"blueprints","permalink":"/blog/tags/blueprints","allTagsPath":"/blog/tags","count":1}')}}]);

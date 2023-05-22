@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctaceygreen_github_io=self.webpackChunkctaceygreen_github_io||[]).push([[6732],{642:e=>{e.exports=JSON.parse('{"label":"funnels","permalink":"/blog/tags/funnels","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctaceygreen_github_io=self.webpackChunkctaceygreen_github_io||[]).push([[3311],{2404:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/inner-workings","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"The tech blog of Chris Tacey-Green, removing the intimidation from tech","blogTitle":"Less Intimidating"}')}}]);

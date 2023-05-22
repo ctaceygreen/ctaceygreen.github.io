@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctaceygreen_github_io=self.webpackChunkctaceygreen_github_io||[]).push([[6886],{6304:e=>{e.exports=JSON.parse('{"label":"building-blocks","permalink":"/blog/tags/building-blocks","allTagsPath":"/blog/tags","count":1}')}}]);

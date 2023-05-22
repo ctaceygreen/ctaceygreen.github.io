@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkctaceygreen_github_io=self.webpackChunkctaceygreen_github_io||[]).push([[533],{8017:e=>{e.exports=JSON.parse('{"permalink":"/blog","page":1,"postsPerPage":1,"totalPages":4,"totalCount":4,"nextPage":"/blog/page/2","blogDescription":"The tech blog of Chris Tacey-Green, removing the intimidation from tech","blogTitle":"Less Intimidating"}')}}]);

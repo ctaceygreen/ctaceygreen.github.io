@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctaceygreen_github_io=self.webpackChunkctaceygreen_github_io||[]).push([[9913],{1482:e=>{e.exports=JSON.parse('{"label":"culture","permalink":"/blog/tags/culture","allTagsPath":"/blog/tags","count":1}')}}]);

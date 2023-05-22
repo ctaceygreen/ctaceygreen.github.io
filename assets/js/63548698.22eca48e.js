@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctaceygreen_github_io=self.webpackChunkctaceygreen_github_io||[]).push([[9069],{3669:e=>{e.exports=JSON.parse('{"label":"inner-workings","permalink":"/blog/tags/inner-workings","allTagsPath":"/blog/tags","count":1}')}}]);
