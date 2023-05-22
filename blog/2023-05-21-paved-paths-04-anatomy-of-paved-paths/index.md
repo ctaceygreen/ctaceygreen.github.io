@@ -1,5 +1,4 @@
 ---
-unlisted: true
 slug: paved-paths-series-part-4-the-anatomy-of-paved-paths
 title: Paved Paths Series - Part 4 - The Anatomy of Paved Paths
 description: Part 4 of the series - A deeper dive into the inner workings of paved paths 
