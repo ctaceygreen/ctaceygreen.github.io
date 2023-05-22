@@ -167,7 +167,7 @@ Getting teams started using your paved paths is critical to their success and sh
 
 With whatever we produce, the vital thing is that we're treating our paved paths with the respect they deserve. Just as we have UX (user experience) for our client-facing products, we have DX (developer experience) for our paved paths. Fundamentally, all the same techniques should be used here as we would use for client-facing products. Research, agile methodologies, continuous feedback, continuous improvement. To succeed, we can use techniques we're already familiar with, the only difference is that our customer is an engineer!
 
-Next, in part 5, we'll discuss where Platform Engineering comes into all of this, and whether you need it to build paved paths.
+Next, in part 5, we'll discuss where Platform Engineering comes into all of this, and whether you *need* it to build paved paths.
 
 ## References
 
