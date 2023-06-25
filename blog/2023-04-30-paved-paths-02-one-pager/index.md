@@ -22,6 +22,7 @@ This is Part 2 in a series of posts discussing Paved Paths between [Rick](https:
 - [Part 1 - Paved Paths: Let's talk about paved paths](https://www.rickroche.com/2023/04/paved-paths-series-part-1-lets-talk-about-paved-paths)
 - [Part 3 - Paved Paths: Why Paved Paths?](https://www.rickroche.com/2023/05/paved-paths-series-part-3-why-paved-paths)
 - [Part 4 - Paved Paths: The Anatomy of Paved Paths](https://christaceygreen.com/blog/paved-paths-series-part-4-the-anatomy-of-paved-paths)
+- [Part 5 - Paved Paths: The Spectrum of Platform Engineering and Paved Paths](https://www.rickroche.com/2023/06/paved-paths-series-part-5-the-spectrum/)
 :::
 
 :::note Why just one page?

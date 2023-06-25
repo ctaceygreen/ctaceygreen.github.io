@@ -22,6 +22,7 @@ This is Part 4 in a series of posts discussing Paved Paths between [Rick](https:
 - [Part 1 - Paved Paths: Let's talk about paved paths](https://www.rickroche.com/2023/04/paved-paths-series-part-1-lets-talk-about-paved-paths)
 - [Part 2 - Paved Paths: One Pager](https://christaceygreen.com/blog/paved-paths-series-part-2-a-one-pager)
 - [Part 3 - Paved Paths: Why Paved Paths?](https://www.rickroche.com/2023/05/paved-paths-series-part-3-why-paved-paths)
+- [Part 5 - Paved Paths: The Spectrum of Platform Engineering and Paved Paths](https://www.rickroche.com/2023/06/paved-paths-series-part-5-the-spectrum/)
 :::
 
 In this post, we explore the inner workings of what makes up a paved path, aiming to demystify the components that will help you to realise the characteristics of a good paved path.
@@ -166,7 +167,7 @@ Getting teams started using your paved paths is critical to their success and sh
 
 With whatever we produce, the vital thing is that we're treating our paved paths with the respect they deserve. Just as we have UX (user experience) for our client-facing products, we have DX (developer experience) for our paved paths. Fundamentally, all the same techniques should be used here as we would use for client-facing products. Research, agile methodologies, continuous feedback, continuous improvement. To succeed, we can use techniques we're already familiar with, the only difference is that our customer is an engineer!
 
-Next, in part 5, we'll discuss where Platform Engineering comes into all of this, and whether you *need* it to build paved paths.
+Next, in part 5, we'll discuss where Platform Engineering comes into all of this, and whether you *need* it to build paved paths. - read it [here](https://www.rickroche.com/2023/06/paved-paths-series-part-5-the-spectrum/)
 
 ## References
 
