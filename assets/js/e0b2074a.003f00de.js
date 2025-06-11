@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctaceygreen_github_io=self.webpackChunkctaceygreen_github_io||[]).push([[5509],{2781:e=>{e.exports=JSON.parse('{"label":"GenAI","permalink":"/blog/tags/gen-ai","allTagsPath":"/blog/tags","count":1}')}}]);
