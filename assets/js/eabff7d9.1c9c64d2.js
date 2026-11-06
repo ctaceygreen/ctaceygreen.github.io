@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctaceygreen_github_io=self.webpackChunkctaceygreen_github_io||[]).push([[1913],{5522:e=>{e.exports=JSON.parse('{"label":"team-topologies","permalink":"/blog/tags/team-topologies","allTagsPath":"/blog/tags","count":1}')}}]);

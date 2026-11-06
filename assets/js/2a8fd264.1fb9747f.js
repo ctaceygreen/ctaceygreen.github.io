@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctaceygreen_github_io=self.webpackChunkctaceygreen_github_io||[]).push([[4473],{5136:e=>{e.exports=JSON.parse('{"label":"engineering-fundamentals","permalink":"/blog/tags/engineering-fundamentals","allTagsPath":"/blog/tags","count":1}')}}]);

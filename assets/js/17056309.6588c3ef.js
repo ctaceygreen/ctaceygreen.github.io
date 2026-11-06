@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkctaceygreen_github_io=self.webpackChunkctaceygreen_github_io||[]).push([[2144],{4235:e=>{e.exports=JSON.parse('{"label":"leadership","permalink":"/blog/tags/leadership","allTagsPath":"/blog/tags","count":2}')}}]);
