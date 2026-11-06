@@ -12,6 +12,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'ctaceygreen', // Usually your GitHub org/user name.
   projectName: 'ctaceygreen.github.io', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
   trailingSlash: false,
   themeConfig: {
     colorMode: {
