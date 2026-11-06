@@ -17,13 +17,13 @@ tags: [AI, team-topologies, engineering-fundamentals, platform-engineering, devo
 
 I've been spending a lot of time recently thinking about what an AI-native software engineering organisation should look like.
 
-Firstly, some context. I'm all-in on AI engineering tooling. Claude Code, Codex, and the growing ecosystem of agentic development tools are incredible. The progress we've made in such a short space of time is staggering, and I'm convinced we're only scratching the surface of what's possible.
+Firstly, some context. I'm all-in on AI engineering tooling. Claude Code, Codex, and the growing ecosystem of agentic development tools are incredible. The progress we've made in such a short space of time is very cool to see, and we're only scratching the surface of what's possible.
 
-I've seen just how much these tools amplify great engineers. We're moving from engineers writing code, to engineers orchestrating multiple agents that are writing, testing, debugging and improving software simultaneously. An engineer running 5-10 agents at once is becoming increasingly realistic, and the amount of work that a capable engineer can get through is quite remarkable.
+We've seen just how much these tools amplify great engineers. We're moving from engineers writing code, to engineers orchestrating multiple agents that are writing, testing, debugging and improving software autonomously. An engineer running 5-10 agents at once is happening regularly, and the amount of work that a capable engineer can get through is ridiculous.
 
-I'm not going to spend this post convincing you of that. There are plenty of people writing about how to get the most out of Claude Code, how to structure your agents, how to optimise your prompts, and which model is best at writing TypeScript this week.
+I'm not going to spend this post convincing you of that. There are plenty of people writing about how to get the most out of Claude Code, how to structure your agents, how to optimise your harness, and which model is best at building GTA 6 this week.
 
-What I want to talk about is something I think unlocks a lot more value.
+What I want to talk about is something that unlocks a lot more value.
 
 We're spending enormous amounts of time and energy making our *engineers* AI-native.
 
@@ -31,7 +31,7 @@ We're spending enormous amounts of time and energy making our *engineers* AI-nat
 
 <!--truncate-->
 
-Imagine you've got an engineer who can now implement a feature in a couple of hours. Fantastic! Their agents have written the code, created tests, run them, fixed the failures, and everything looks good.
+Imagine you've got an engineer who can now implement a feature in a couple of hours. Sweet! Their agents have written the code, created tests, run them, fixed the failures, and everything looks good.
 
 ***Now what?***
 
@@ -51,7 +51,7 @@ Worse still, we've potentially increased the amount of work arriving at all thos
 **Making your engineers AI-native doesn't automatically make your software delivery organisation AI-native.**
 :::
 
-And I think this is where a lot of organisations are going to struggle to realise the full potential of AI.
+And this is where a lot of organisations are going to struggle to realise the full potential of AI.
 
 ## The fundamentals haven't suddenly stopped mattering
 
@@ -74,13 +74,13 @@ We've been talking about all this stuff for ages!
 
 But plenty of organisations haven't got these fundamentals setup yet.
 
-The [2025 DORA research](https://dora.dev/research/2025/dora-report/) describes AI as an **amplifier** of an organisation's existing strengths and weaknesses. I think by now we've all seen this in real life. If you've got great engineering practices, strong teams and a delivery process optimised for flow, AI can massively amplify what you're capable of achieving.
+The [2025 DORA research](https://dora.dev/research/2025/dora-report/) describes AI as an **amplifier** of an organisation's existing strengths and weaknesses. By now we've all seen this in real life. If you've got great engineering practices, strong teams and a delivery process optimised for flow, AI can massively amplify what you're capable of achieving.
 
 But if your delivery process is full of handoffs, manual steps, disconnected teams and slow decision-making, AI isn't going to magically solve those problems.
 
 **It will likely make them worse.**
 
-This has led me to want to explore some of the engineering fundamentals that I think are becoming even more important as we move into the age of AI.
+This has led me to want to explore some of the engineering fundamentals that are becoming even more important as we move into the age of AI.
 
 Not because they're new, but because the impact of getting them right, or wrong, is becoming considerably greater.
 
@@ -159,7 +159,7 @@ Now, Team Topologies generally describes stable teams of around five to nine peo
 
 ***Why three engineers?***
 
-Firstly, I think there's a minimum number of humans you want involved to ensure there's diversity of thought, healthy technical challenge, knowledge sharing, and enough resilience when somebody goes on holiday. But there's also a point where adding more engineers starts creating more coordination overhead than the additional capacity is worth. And I think AI is changing where that point sits.
+Firstly, there's a minimum number of humans you want involved to ensure there's diversity of thought, healthy technical challenge, knowledge sharing, and enough resilience when somebody goes on holiday. But there's also a point where adding more engineers starts creating more coordination overhead than the additional capacity is worth. And AI is changing where that point sits.
 
 Imagine a team of ten engineers, each orchestrating five or ten coding agents. You've potentially got an enormous amount of work being carried out simultaneously.
 
@@ -274,7 +274,7 @@ For now, the important thing is that **engineers are involved in discovering and
 
 Okay, your agents don't *hate* anything. But you get the idea.
 
-This is one of the biggest reasons I think Team Topologies has become so important. We've always known that handoffs slow software delivery, but with agentic engineering, handoffs don't just introduce waiting time. **They prevent agents from completing an otherwise automated workflow.**
+This is one of the biggest reasons that Team Topologies has become so important. We've always known that handoffs slow software delivery, but with agentic engineering, handoffs don't just introduce waiting time. **They prevent agents from completing an otherwise automated workflow.**
 
 Let's use QA as an example.
 
@@ -324,7 +324,7 @@ This is where our previous thinking needs to evolve. We've talked about small, s
 
 There's an awful lot of expertise required, even for the AI-assisted legends we employ.
 
-This is where our enabling teams come in, helping pods develop the capabilities they need without taking on unnecessary complexity. But I think there's a fundamental change in how these teams need to operate.
+This is where our enabling teams come in, helping pods develop the capabilities they need without taking on unnecessary complexity. But there's a fundamental change in how these teams need to operate.
 
 :::info
 **We can no longer think about enabling just the human engineer. We need to enable the engineer and their agents together.**
@@ -394,7 +394,7 @@ Remember the woodland from my paved paths posts?
 
 We agreed that we don't want everybody cutting their own route through the forest every time they're trying to get to the same destination. That's wasteful, risky, and results in somebody getting eaten by a bear. But equally, we don't want to pave a road to the wrong destination simply because somebody thought it looked like the right direction.
 
-Sometimes we need people exploring the woodland before we know which routes are worth paving. I think this applies really nicely to enabling teams. The preference should be to **start by enabling our pods to develop a capability**. Have the specialists work with them, share expertise, establish good practices and make those practices accessible to their agents.
+Sometimes we need people exploring the woodland before we know which routes are worth paving. This applies really nicely to enabling teams. The preference should be to **start by enabling our pods to develop a capability**. Have the specialists work with them, share expertise, establish good practices and make those practices accessible to their agents.
 
 As we do this, we'll learn where the common problems are.
 
@@ -500,7 +500,7 @@ I want to finish by coming back to where I started. We can see that agentic engi
 
 All useful things to explore.
 
-But if those engineers are still operating within a delivery process full of handoffs, disconnected discovery, poor feedback loops and slow decision-making, how much of that additional capability are we actually benefiting from? We've potentially made the engineering part of the process faster, while leaving the rest of it largely unchanged. And I think that's where a lot of our brain power should be focusing now. Thankfully, most of these topics aren't new, they're fundamental engineering practices that just need a little refresh.
+But if those engineers are still operating within a delivery process full of handoffs, disconnected discovery, poor feedback loops and slow decision-making, how much of that additional capability are we actually benefiting from? We've potentially made the engineering part of the process faster, while leaving the rest of it largely unchanged. And that's where a lot of our brain power should be focusing now. Thankfully, most of these topics aren't new, they're fundamental engineering practices that just need a little refresh.
 
 - **Team Topologies** has been encouraging us to create small, empowered teams with clear ownership and minimal dependencies for years.
 - **DevOps** has been encouraging us to take shared responsibility for building, deploying and operating our software.
